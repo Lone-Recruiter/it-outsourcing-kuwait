@@ -1,0 +1,79 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Senior z/OS System Administrator</title>
+</head>
+<body>
+
+    <h1>Senior z/OS System Administrator</h1>
+
+    <p><strong>Salary:</strong> 2,250 KWD / Month</p>
+    <p><strong>Location:</strong> Kuwait</p>
+    <p><strong>Status:</strong> Open for qualified Senior z/OS System Administrator</p>
+
+    <hr>
+
+    <h2>Position Overview</h2>
+
+    <p>
+        We are looking for a highly skilled IBM z/OS Senior System Administrator to join our IT team.
+        The successful candidate will be responsible for the installation, configuration, maintenance,
+        and overall management of IBM z/OS systems, ensuring high levels of system performance,
+        availability, and security. The role will support and optimize the mainframe environment and
+        business-critical applications running on z/OS.
+    </p>
+
+    <h2>Required Experience</h2>
+
+    <ul>
+        <li>Minimum 5+ years of hands-on experience as a z/OS System Administrator or similar role.</li>
+        <li>At least 3+ years of experience in a senior or lead capacity.</li>
+        <li>Strong experience with IBM z/OS system software and components such as JES2/JES3, TSO, SMP/E, and related utilities.</li>
+        <li>Experience installing, configuring, maintaining, patching, and optimizing IBM z/OS environments.</li>
+        <li>Strong knowledge of z/OS system architecture, utilities, performance tuning, and capacity management.</li>
+        <li>Experience with mainframe security tools such as RACF, ACF2, or Top Secret.</li>
+        <li>Experience managing system resources including CPU, memory, DASD, tape, zFS, and related mainframe storage components.</li>
+        <li>Knowledge of mainframe networking concepts including TCP/IP, VTAM, and SNA.</li>
+        <li>Hands-on experience with performance tools such as RMF, SMF, and z/OS Performance Toolkit.</li>
+        <li>Experience with backup, recovery, disaster recovery planning, DFSMS, FlashCopy, and related backup tools.</li>
+        <li>Proficiency in REXX, CLIST, or similar mainframe scripting languages.</li>
+        <li>Ability to automate system administration tasks, reporting, monitoring, and routine maintenance.</li>
+        <li>Strong troubleshooting, diagnostic, root-cause analysis, and problem management skills.</li>
+        <li>Experience documenting system configurations, procedures, troubleshooting steps, and environment changes.</li>
+        <li>Ability to collaborate with application teams, developers, IT teams, and management.</li>
+        <li>Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent work experience.</li>
+    </ul>
+
+    <h2>Certifications</h2>
+
+    <ul>
+        <li>IBM z/OS-related certifications are preferred.</li>
+        <li>Mainframe security certifications related to RACF, ACF2, or Top Secret are an advantage.</li>
+        <li>Certifications in automation tools such as Tivoli Workload Scheduler or Control-M are preferred.</li>
+        <li>Additional certifications related to IBM Z, z/VM, mainframe operations, or hybrid cloud are an advantage.</li>
+    </ul>
+
+    <h2>Application</h2>
+
+    <p>
+        To apply for this position, click the button below and attach your CV to the generated email.
+    </p>
+
+    <p>
+        <a href="mailto:mjamal@kbm-kw.com?subject=Senior%20zOS%20System%20Administrator">
+            Apply for Senior z/OS System Administrator
+        </a>
+    </p>
+
+    <hr>
+
+    <p>
+        <a href="index.html">← Back to Open Positions</a>
+    </p>
+
+</body>
+</html>
+```

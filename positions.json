@@ -1,4 +1,599 @@
 [
+  {
+  "id": "senior-zos-system-administrator",
+  "title": "Senior z/OS System Administrator",
+  "salary": "2,250 KWD / Month",
+  "location": "Kuwait",
+  "status": "Position expected to become available in approximately 3 months (end of September to early October), with the possibility of an earlier start depending on client requirements.",
+  "overview": "Seeking a Senior z/OS System Administrator to lead the installation, configuration, maintenance, and optimization of IBM z/OS environments. The role is responsible for ensuring high availability, security, performance, and operational excellence across mission-critical IBM Mainframe infrastructure while providing technical leadership and guidance to junior team members.",
+  "responsibilities": [
+    "Install, configure, maintain, and optimize IBM z/OS environments",
+    "Administer IBM z/OS system software including JES2/JES3, TSO, SMP/E, and related utilities",
+    "Monitor and optimize system performance, capacity, and availability",
+    "Manage mainframe security using RACF, ACF2, or Top Secret",
+    "Administer system resources including CPU, memory, DASD, tape, and zFS storage",
+    "Support mainframe networking including TCP/IP, VTAM, and SNA",
+    "Perform backup, recovery, DFSMS, FlashCopy, and disaster recovery planning",
+    "Develop automation solutions using REXX, CLIST, or similar scripting languages",
+    "Lead troubleshooting, root cause analysis, and problem resolution activities",
+    "Document system configurations, operational procedures, and infrastructure changes",
+    "Collaborate with application teams, developers, infrastructure teams, and management",
+    "Provide technical leadership and mentor junior system administrators"
+  ],
+  "qualifications": [
+    "Minimum 5 years of hands-on experience as a z/OS System Administrator or similar role",
+    "At least 3 years of experience in a senior or lead capacity",
+    "Strong experience with IBM z/OS system software including JES2/JES3, TSO, SMP/E, and related utilities",
+    "Experience installing, configuring, maintaining, patching, and optimizing IBM z/OS environments",
+    "Strong knowledge of z/OS architecture, performance tuning, and capacity management",
+    "Experience administering RACF, ACF2, or Top Secret security",
+    "Experience managing CPU, memory, DASD, tape, and zFS resources",
+    "Knowledge of TCP/IP, VTAM, and SNA networking",
+    "Hands-on experience with RMF, SMF, and z/OS Performance Toolkit",
+    "Experience with backup, recovery, DFSMS, FlashCopy, and disaster recovery planning",
+    "Proficiency with REXX, CLIST, or similar scripting languages",
+    "Strong troubleshooting, analytical, and root cause analysis skills",
+    "Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience)"
+  ],
+  "preferredSkills": [
+    "IBM z/OS certifications",
+    "Mainframe security certifications (RACF, ACF2, or Top Secret)",
+    "Experience with Tivoli Workload Scheduler, Control-M, IBM Z, z/VM, or hybrid cloud technologies",
+    "Strong leadership, mentoring, and technical documentation skills"
+  ],
+  "emailSubject": "Senior z/OS System Administrator",
+  "active": true
+},
+  {
+  "id": "senior-ibm-db2-zos-specialist",
+  "title": "Senior IBM DB2 on z/OS Specialist",
+  "salary": "2,200 KWD / Month",
+  "location": "Kuwait",
+  "status": "Must be proficient in both DB2 Development and Database Administration.",
+  "overview": "Seeking a Senior IBM DB2 on z/OS Specialist to manage, administer, maintain, and optimize enterprise DB2 environments on IBM Mainframe platforms. The role combines advanced database administration and development responsibilities, ensuring high availability, performance, security, and reliability while supporting business-critical applications and development teams.",
+  "responsibilities": [
+    "Administer, maintain, and optimize IBM DB2 for z/OS environments",
+    "Plan, install, configure, customize, upgrade, and implement DB2 for z/OS",
+    "Manage backup, recovery, disaster recovery, and database integrity",
+    "Monitor and troubleshoot DB2 performance and operational issues",
+    "Administer DB2 utilities, log analysis, and recovery processes",
+    "Support IBM Mainframe technologies including CICS, MQ, QMF, Data Rep for DB2, DB2 Connect, and DB2 Admin",
+    "Develop automation routines for database administration tasks",
+    "Assist development teams with database design, optimization, and troubleshooting",
+    "Support initiatives to modernize and web-enable existing systems",
+    "Develop database policies, procedures, and technical documentation",
+    "Mentor and train junior database administrators and developers"
+  ],
+  "qualifications": [
+    "15+ years of IBM DB2 Database Administration experience",
+    "Strong experience with IBM Mainframe technologies including CICS, MQ, QMF, Data Rep for DB2, DB2 Connect, and DB2 Admin",
+    "Experience with DB2 Recovery, DB2 Log Analysis, and DB2 Utilities",
+    "Experience planning, installing, configuring, customizing, testing, upgrading, and administering DB2 for z/OS",
+    "Experience maintaining and troubleshooting enterprise DB2 environments",
+    "Experience performing backup, recovery, and disaster recovery operations",
+    "Experience developing database administration policies and operational procedures",
+    "Experience designing automation solutions for DBA tasks",
+    "Experience supporting developers with database development activities",
+    "Experience modernizing legacy systems and supporting web-enabled solutions",
+    "Experience mentoring junior technical staff",
+    "Strong technical documentation skills"
+  ],
+  "preferredSkills": [
+    "IBM or DB2-related certifications",
+    "Strong performance tuning and capacity planning experience",
+    "Excellent analytical, troubleshooting, and communication skills"
+  ],
+  "emailSubject": "Senior IBM DB2 on z/OS Specialist",
+  "active": true
+},
+  {
+  "id": "red-hat-openshift-administrator",
+  "title": "Red Hat OpenShift Administrator",
+  "salary": "1,200 KWD / Month",
+  "location": "Kuwait",
+  "status": "Hiring will begin upon contract award. Candidates who successfully pass the interview process will be considered for employment.",
+  "overview": "Seeking a Red Hat OpenShift Administrator to manage, maintain, and support enterprise OpenShift environments while ensuring platform stability, performance, security, and high availability. The role works closely with infrastructure and development teams to support containerized enterprise applications.",
+  "responsibilities": [
+    "Administer and maintain Red Hat OpenShift environments",
+    "Deploy, configure, and support OpenShift clusters",
+    "Monitor platform health, performance, and availability",
+    "Troubleshoot infrastructure and platform-related issues",
+    "Collaborate with development and infrastructure teams to support containerized applications",
+    "Perform platform upgrades, patching, and maintenance activities",
+    "Document system configurations and operational procedures",
+    "Ensure platform security and compliance with organizational standards"
+  ],
+  "qualifications": [
+    "Bachelor's degree in Computer Science, Information Technology, or a related field (preferred)",
+    "Minimum 3 years of experience administering Red Hat OpenShift environments",
+    "Experience administering Red Hat Enterprise Linux (RHEL)",
+    "Strong troubleshooting and problem-solving skills"
+  ],
+  "preferredSkills": [
+    "Linux administration experience",
+    "Experience supporting enterprise container platforms",
+    "Strong documentation and communication skills"
+  ],
+  "emailSubject": "Red Hat OpenShift Administrator",
+  "active": true
+},
+  {
+  "id": "network-security-engineer-fortinet",
+  "title": "Network Security Engineer (Fortinet)",
+  "salary": "1,300 KWD / Month",
+  "location": "Kuwait",
+  "status": "Must be a Native Arabic Speaker",
+  "overview": "Seeking a Network Security Engineer to provide onsite resident engineering support for enterprise network security infrastructure, with a primary focus on Fortinet security platforms. The role is responsible for day-to-day administration, monitoring, troubleshooting, and optimization of customer security environments while ensuring high availability and adherence to security best practices.",
+  "responsibilities": [
+    "Administer and support Fortinet security solutions",
+    "Manage and maintain FortiGate firewalls",
+    "Perform day-to-day network security operations and administration",
+    "Configure and maintain firewall security policies",
+    "Deploy, configure, and support VPN connectivity",
+    "Monitor security events and respond to incidents",
+    "Troubleshoot network security and connectivity issues",
+    "Provide onsite customer-facing technical support",
+    "Optimize security infrastructure performance and availability",
+    "Follow security best practices and maintain technical documentation"
+  ],
+  "qualifications": [
+    "Bachelor's degree in Computer Science, Computer Engineering, or an equivalent field",
+    "Strong hands-on experience with Fortinet security solutions",
+    "Experience managing FortiGate firewalls",
+    "Experience with network security operations and administration",
+    "Experience with firewall policy management",
+    "Experience configuring and maintaining VPN solutions",
+    "Experience with threat monitoring and incident response",
+    "Strong security monitoring and troubleshooting skills",
+    "Experience providing customer-facing onsite technical support",
+    "Native Arabic speaker"
+  ],
+  "preferredSkills": [
+    "Fortinet NSE certification",
+    "Strong analytical and problem-solving skills",
+    "Excellent communication and customer service skills"
+  ],
+  "emailSubject": "Network Security Engineer Fortinet",
+  "active": true
+},
+  {
+  "id": "junior-zos-system-administrator",
+  "title": "Junior z/OS System Administrator",
+  "salary": "1,600 KWD / Month",
+  "location": "Kuwait",
+  "status": "Position expected to become available in approximately 3 months (end of September to early October), with the possibility of an earlier start depending on client requirements.",
+  "overview": "Seeking a Junior z/OS System Administrator to support the installation, configuration, maintenance, and optimization of IBM z/OS environments. The role focuses on maintaining high system availability, performance, and security while supporting business-critical mainframe applications and infrastructure.",
+  "responsibilities": [
+    "Install, configure, maintain, and support IBM z/OS environments",
+    "Administer IBM z/OS system software including JES2/JES3, TSO, SMP/E, and related utilities",
+    "Monitor system performance, capacity, and overall system health",
+    "Manage mainframe security using RACF, ACF2, or Top Secret",
+    "Administer system resources including CPU, memory, DASD, tape, and zFS storage",
+    "Support mainframe networking including TCP/IP, VTAM, and SNA",
+    "Perform backup, recovery, DFSMS, FlashCopy, and disaster recovery activities",
+    "Develop and maintain automation scripts using REXX, CLIST, or similar tools",
+    "Troubleshoot and resolve day-to-day system and infrastructure issues",
+    "Maintain technical documentation, operational procedures, and system configuration records"
+  ],
+  "qualifications": [
+    "3+ years of experience administering IBM z/OS environments",
+    "Experience with IBM z/OS system software including JES2/JES3, TSO, SMP/E, and related utilities",
+    "Good understanding of z/OS architecture, performance monitoring, and capacity planning",
+    "Experience with RACF, ACF2, or Top Secret security administration",
+    "Experience managing mainframe storage resources including DASD, tape, and zFS",
+    "Working knowledge of TCP/IP, VTAM, and SNA networking",
+    "Experience using RMF, SMF, and z/OS Performance Toolkit",
+    "Experience with backup, recovery, DFSMS, FlashCopy, and disaster recovery procedures",
+    "Proficiency with REXX, CLIST, or similar scripting languages",
+    "Strong troubleshooting and analytical skills",
+    "Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience)"
+  ],
+  "preferredSkills": [
+    "IBM z/OS certifications",
+    "Mainframe security certifications (RACF, ACF2, or Top Secret)",
+    "Experience with Tivoli Workload Scheduler, Control-M, IBM Z, z/VM, or hybrid cloud technologies"
+  ],
+  "emailSubject": "Junior z/OS System Administrator",
+  "active": true
+},
+  {
+  "id": "ecm-system-support",
+  "title": "ECM System Support",
+  "salary": "750 KWD / Month",
+  "location": "Kuwait",
+  "status": "Potential upcoming ECM project (subject to contract award).",
+  "overview": "Seeking an ECM System Support professional to assist with the day-to-day support, maintenance, and operation of IBM Enterprise Content Management (ECM) environments. The role focuses on ensuring system availability, providing user support, and assisting with operational activities across enterprise ECM platforms.",
+  "responsibilities": [
+    "Provide day-to-day operational support for IBM ECM environments",
+    "Assist with system monitoring, maintenance, and troubleshooting",
+    "Support end users by resolving technical issues and service requests",
+    "Assist with Microsoft-based tools and enterprise applications",
+    "Help maintain system documentation and operational procedures",
+    "Participate in system upgrades, maintenance, and testing activities",
+    "Coordinate with senior support staff on incident resolution",
+    "Deliver user training and technical presentations when required",
+    "Maintain service quality by following established operational procedures",
+    "Support continuous improvement initiatives for ECM operations"
+  ],
+  "qualifications": [
+    "Bachelor's degree in Information Technology, Software Engineering, Computer Engineering, Computer Science, MIS, Business Administration, or a related field",
+    "5+ years of enterprise IT experience",
+    "3+ years of IBM ECM support experience",
+    "Experience with Microsoft tools and enterprise productivity platforms",
+    "Strong troubleshooting and user support skills",
+    "Training and presentation skills",
+    "English language proficiency is required",
+    "Arabic language skills are preferred",
+    "Certification in at least one IBM ECM component"
+  ],
+  "preferredSkills": [
+    "Experience supporting enterprise IBM ECM environments",
+    "Strong communication and customer service skills",
+    "Commitment to continuous learning and service improvement"
+  ],
+  "emailSubject": "ECM System Support",
+  "active": true
+},
+  {
+  "id": "ecm-system-engineer",
+  "title": "ECM System Engineer",
+  "salary": "1,500 KWD / Month",
+  "location": "Kuwait",
+  "status": "Potential upcoming ECM project (subject to contract award).",
+  "overview": "Seeking an experienced ECM System Engineer to administer, maintain, and support IBM Enterprise Content Management (ECM) platforms and the underlying enterprise infrastructure. The role focuses on ensuring platform availability, security, performance, and operational reliability across IBM ECM environments.",
+  "responsibilities": [
+    "Administer and support IBM ECM platforms and enterprise infrastructure",
+    "Deploy and maintain IBM Cloud Pak for Business Automation environments",
+    "Manage OpenShift-based ECM deployments",
+    "Administer Windows Server and UNIX operating systems",
+    "Manage Oracle and Microsoft SQL Server environments",
+    "Maintain high availability and resilient enterprise platforms",
+    "Implement security best practices and SQL scripting where required",
+    "Monitor system performance and troubleshoot infrastructure issues",
+    "Support system upgrades, maintenance, and operational improvements",
+    "Prepare technical documentation and provide ongoing platform support"
+  ],
+  "qualifications": [
+    "Bachelor's degree in Information Technology, Software Engineering, Computer Engineering, Computer Science, MIS, or a related field",
+    "10+ years of enterprise IT experience",
+    "6+ years of IBM ECM administration and support experience",
+    "Experience with IBM Cloud Pak for Business Automation",
+    "Experience administering OpenShift environments",
+    "Strong Windows Server and UNIX administration experience",
+    "Experience administering Oracle and Microsoft SQL Server",
+    "Experience supporting high availability enterprise environments",
+    "Knowledge of enterprise security practices and SQL scripting",
+    "English language proficiency is required",
+    "Arabic language skills are preferred",
+    "IBM Content Platform Engine certification",
+    "WebSphere Application Server certification",
+    "IBM Cloud Pak for Business Automation certification"
+  ],
+  "preferredSkills": [
+    "Experience supporting enterprise IBM ECM environments",
+    "Strong troubleshooting and infrastructure optimization skills",
+    "Experience working on large-scale enterprise transformation projects"
+  ],
+  "emailSubject": "ECM System Engineer",
+  "active": true
+},
+  {
+  "id": "ecm-senior-system-support",
+  "title": "ECM Senior System Support",
+  "salary": "1,550 KWD / Month",
+  "location": "Kuwait",
+  "status": "Potential upcoming ECM project (subject to contract award).",
+  "overview": "Seeking an experienced ECM Senior System Support professional to provide operational support, maintenance, troubleshooting, and user assistance for IBM Enterprise Content Management (ECM) environments. The role focuses on ensuring platform stability, resolving incidents, supporting end users, and maintaining high service availability.",
+  "responsibilities": [
+    "Provide operational support for IBM ECM environments",
+    "Monitor system health and ensure platform availability",
+    "Troubleshoot and resolve application and infrastructure issues",
+    "Manage incidents, problems, and service requests through ITSM processes",
+    "Provide technical support and guidance to end users",
+    "Maintain system documentation and operational reports",
+    "Coordinate issue resolution with technical teams and vendors",
+    "Support system maintenance, upgrades, and patching activities",
+    "Deliver user training and technical presentations when required",
+    "Assist in leading support activities and promoting service improvement initiatives"
+  ],
+  "qualifications": [
+    "12+ years of enterprise IT experience",
+    "7+ years of IBM ECM support and maintenance experience",
+    "Experience leading or coordinating technical support teams",
+    "Experience with ITSM and ticketing systems",
+    "Experience with incident and problem management processes",
+    "Strong user support and troubleshooting skills",
+    "Experience with system monitoring and issue resolution",
+    "Strong documentation and reporting skills",
+    "Training and presentation skills",
+    "Excellent communication and interpersonal skills",
+    "Certification in at least one IBM ECM component"
+  ],
+  "preferredSkills": [
+    "Experience supporting large-scale IBM ECM environments",
+    "Strong analytical and problem-solving skills",
+    "Commitment to continuous service improvement and operational excellence"
+  ],
+  "emailSubject": "ECM Senior System Support",
+  "active": true
+},
+  {
+  "id": "ecm-lead-system-business-analyst",
+  "title": "ECM Lead System Business Analyst",
+  "salary": "1,500 KWD / Month",
+  "location": "Kuwait",
+  "status": "Potential upcoming ECM project (subject to contract award).",
+  "overview": "Seeking an experienced ECM Lead System Business Analyst to lead business analysis, requirements gathering, process improvement, and solution design activities for Enterprise Content Management (ECM) initiatives. The role bridges business and technical teams to deliver scalable IBM ECM solutions that align with organizational objectives.",
+  "responsibilities": [
+    "Lead business analysis activities for IBM ECM projects",
+    "Gather, analyze, and document business and system requirements",
+    "Facilitate workshops with business stakeholders and technical teams",
+    "Design and improve business processes and ECM workflows",
+    "Develop UML models and functional specifications",
+    "Collaborate with development teams during solution design and implementation",
+    "Assist with database design and data analysis activities",
+    "Coordinate project deliverables across multiple stakeholders",
+    "Support testing, user acceptance, and solution validation",
+    "Prepare business documentation and ensure project objectives are achieved"
+  ],
+  "qualifications": [
+    "Bachelor's degree in Information Technology, Software Engineering, Computer Science, MIS, Business Administration, or a related field",
+    "11+ years of enterprise IT experience",
+    "Experience gathering and analyzing business requirements",
+    "Experience with Enterprise Content Management (ECM) business and system analysis",
+    "Experience creating UML models and functional documentation",
+    "Knowledge of database design principles",
+    "Strong communication, presentation, and stakeholder coordination skills",
+    "English language proficiency is required",
+    "Arabic language skills are preferred",
+    "Certification in at least one IBM ECM component"
+  ],
+  "preferredSkills": [
+    "Experience leading enterprise business analysis initiatives",
+    "Strong process improvement and solution design skills",
+    "Experience delivering large-scale IBM ECM projects"
+  ],
+  "emailSubject": "ECM Lead System Business Analyst",
+  "active": true
+},
+  {
+  "id": "ecm-lead-system-administrator",
+  "title": "ECM Lead System Administrator",
+  "salary": "1,850 KWD / Month",
+  "location": "Kuwait",
+  "status": "Potential upcoming ECM project (subject to contract award).",
+  "overview": "Seeking an experienced ECM Lead System Administrator to administer, support, and optimize IBM Enterprise Content Management platforms and supporting enterprise infrastructure. The role is responsible for ensuring high availability, platform performance, security, and operational excellence across IBM ECM environments.",
+  "responsibilities": [
+    "Administer and support IBM ECM platforms and enterprise infrastructure",
+    "Manage IBM Cloud Pak for Business Automation environments",
+    "Deploy and maintain OpenShift-based ECM solutions",
+    "Administer Windows Server and UNIX operating systems",
+    "Manage Oracle and Microsoft SQL Server environments",
+    "Administer WebSphere, Tomcat, and IIS application servers",
+    "Maintain high availability, backup, and disaster recovery solutions",
+    "Monitor, troubleshoot, and optimize platform performance",
+    "Implement security best practices and system maintenance procedures",
+    "Provide technical leadership and support for enterprise ECM operations"
+  ],
+  "qualifications": [
+    "14+ years of enterprise IT experience",
+    "8+ years of IBM ECM administration and support experience",
+    "Experience with IBM Cloud Pak for Business Automation",
+    "Experience administering OpenShift environments",
+    "Strong Windows Server and UNIX administration experience",
+    "Experience administering Oracle and Microsoft SQL Server",
+    "Experience supporting high availability environments",
+    "Experience administering WebSphere, Tomcat, or IIS",
+    "Experience with backup and disaster recovery solutions",
+    "Experience with performance monitoring and system tuning",
+    "IBM Content Platform Engine certification",
+    "WebSphere Application Server certification",
+    "IBM Cloud Pak for Business Automation certification"
+  ],
+  "preferredSkills": [
+    "Experience leading enterprise infrastructure and platform administration",
+    "Strong troubleshooting and performance optimization skills",
+    "Experience supporting large-scale IBM ECM environments"
+  ],
+  "emailSubject": "ECM Lead System Administrator",
+  "active": true
+},
+  {
+  "id": "ecm-lead-it-specialist-ii",
+  "title": "ECM Lead IT Specialist (II)",
+  "salary": "2,250 KWD / Month",
+  "location": "Kuwait",
+  "status": "Potential upcoming ECM project (subject to contract award).",
+  "overview": "Seeking an experienced ECM Lead IT Specialist (II) to lead the design, development, and implementation of enterprise content management solutions using IBM ECM technologies. The role provides technical leadership, oversees development activities, and ensures the successful delivery of enterprise-scale ECM platforms.",
+  "responsibilities": [
+    "Lead the design, development, and implementation of IBM ECM solutions",
+    "Provide technical leadership and guidance to development teams",
+    "Develop enterprise applications using Java and .NET technologies",
+    "Design and develop IBM ECM APIs and enterprise integrations",
+    "Administer and support IBM WebSphere environments",
+    "Develop and integrate REST APIs with enterprise systems",
+    "Work with Oracle and Microsoft SQL Server databases",
+    "Implement DevOps practices throughout the software development lifecycle",
+    "Develop Low-Code platform solutions where appropriate",
+    "Ensure solution quality, scalability, security, and adherence to enterprise standards"
+  ],
+  "qualifications": [
+    "16+ years of software development experience",
+    "8+ years of IBM ECM development experience",
+    "12+ years of IBM ECM API and product development experience",
+    "Strong Java development experience",
+    "Strong .NET development experience",
+    "Strong experience with modern web technologies",
+    "Experience with Oracle and Microsoft SQL Server databases",
+    "Experience administering IBM WebSphere",
+    "Experience developing and integrating REST APIs",
+    "Experience implementing DevOps practices",
+    "Experience with Low-Code platforms",
+    "IBM Business Automation Workflow certification",
+    "IBM Datacap certification"
+  ],
+  "preferredSkills": [
+    "Experience leading enterprise ECM development teams",
+    "Strong architectural and technical leadership skills",
+    "Experience delivering large-scale enterprise digital transformation projects"
+  ],
+  "emailSubject": "ECM Lead IT Specialist (II)",
+  "active": true
+},
+  {
+  "id": "ecm-developer-ii",
+  "title": "ECM Developer (II)",
+  "salary": "1,500 KWD / Month",
+  "location": "Kuwait",
+  "status": "Potential upcoming ECM project (subject to contract award).",
+  "overview": "Seeking an experienced ECM Developer (II) to design, develop, integrate, and support Enterprise Content Management (ECM) solutions using IBM ECM technologies. The role involves delivering scalable enterprise applications, APIs, and integrations while following modern software development practices.",
+  "responsibilities": [
+    "Design, develop, and maintain IBM ECM solutions",
+    "Develop enterprise applications using Java and .NET",
+    "Build and integrate REST APIs with enterprise systems",
+    "Develop desktop, web, and mobile applications",
+    "Work with Oracle and Microsoft SQL Server databases",
+    "Participate in Agile software development projects",
+    "Utilize source control tools throughout the development lifecycle",
+    "Develop and integrate Low-Code platform solutions",
+    "Troubleshoot, optimize, and support ECM applications",
+    "Collaborate with technical teams to deliver scalable enterprise solutions"
+  ],
+  "qualifications": [
+    "10+ years of software development experience",
+    "6+ years of Enterprise Content Management (ECM) development experience",
+    "Strong Java development experience",
+    "Strong .NET development experience",
+    "Strong experience with modern web technologies",
+    "Experience with Oracle and Microsoft SQL Server databases",
+    "Experience developing and integrating REST APIs",
+    "Experience working in Agile development environments",
+    "Experience using source control systems",
+    "Experience with Low-Code platforms",
+    "Experience developing desktop, web, and mobile applications",
+    "IBM Business Automation Workflow certification",
+    "IBM Datacap certification"
+  ],
+  "preferredSkills": [
+    "Experience integrating enterprise content management solutions",
+    "Strong analytical and problem-solving skills",
+    "Experience delivering large-scale enterprise software projects"
+  ],
+  "emailSubject": "ECM Developer (II)",
+  "active": true
+},
+  {
+  "id": "data-center-technician",
+  "title": "Data Center Technician",
+  "salary": "550 KWD / Month",
+  "location": "Kuwait",
+  "status": "Shift Based (24/7). This is an RFP tender. Hiring will begin if the contract is awarded and shortlisted candidates will be contacted.",
+  "overview": "Support the daily operation and maintenance of the organization's Data Center environment. Assist with IT infrastructure, server room operations, monitoring systems, and facility support to ensure the availability, reliability, and continuous operation of business-critical systems.",
+  "responsibilities": [
+    "Support the daily operation of the Data Center and server room environment",
+    "Assist with rack installation, structured cabling, and hardware support",
+    "Monitor Data Center infrastructure and environmental systems",
+    "Provide Windows desktop and Active Directory support",
+    "Support backup systems and recovery operations",
+    "Monitor IP monitoring tools, DCIM, and Network Management Systems",
+    "Assist with Building Management Systems (BMS) monitoring",
+    "Perform routine inspections of power, cooling, and facility infrastructure",
+    "Troubleshoot infrastructure issues and escalate when necessary",
+    "Maintain operational documentation and follow established procedures"
+  ],
+  "qualifications": [
+    "2–3 years of experience in Data Center or IT infrastructure support",
+    "Knowledge of Data Center operations and server room best practices",
+    "Experience with rack installation, cabling, and basic hardware support",
+    "Knowledge of Windows desktop support and Active Directory",
+    "Experience with backup systems, DCIM, IP monitoring tools, and Network Management Systems",
+    "Basic understanding of facility infrastructure, including power and cooling systems",
+    "Strong troubleshooting and communication skills",
+    "Degree or diploma in Information Technology, Computer Science, Computer Engineering, or a related technical field is preferred"
+  ],
+  "preferredSkills": [
+    "Relevant Data Center certifications",
+    "Microsoft infrastructure certifications",
+    "Experience with enterprise monitoring and facility management systems"
+  ],
+  "emailSubject": "Data Center Technician",
+  "active": true
+},
+  {
+  "id": "data-center-technician-team-leader",
+  "title": "Data Center Technician Team Leader",
+  "salary": "700 KWD / Month",
+  "location": "Kuwait",
+  "status": "Shift Based (24/7). This is an RFP tender. Hiring will begin if the contract is awarded and shortlisted candidates will be contacted.",
+  "overview": "Lead and supervise the daily operations of the Data Center team while ensuring the availability, reliability, and security of business-critical infrastructure. Coordinate technical activities, oversee server room operations, monitor facility systems, and provide guidance to Data Center Technicians while maintaining operational procedures and service level commitments.",
+  "responsibilities": [
+    "Lead and supervise the daily operations of the Data Center team",
+    "Coordinate server room activities and ensure infrastructure availability",
+    "Oversee rack installation, structured cabling, and hardware support",
+    "Monitor Data Center facilities, power, cooling, and environmental systems",
+    "Administer and support Active Directory and Windows desktop environments",
+    "Monitor backup systems, DCIM, IP monitoring, and Network Management Systems",
+    "Coordinate incident response, troubleshooting, and escalation activities",
+    "Ensure compliance with operational procedures and service level agreements",
+    "Prepare operational documentation and reports",
+    "Provide technical guidance and mentorship to Data Center Technicians"
+  ],
+  "qualifications": [
+    "3–5 years of experience in Data Center or IT infrastructure support",
+    "Experience leading a small team or serving as a senior technical resource",
+    "Strong knowledge of Data Center operations and server room best practices",
+    "Experience with rack installation, cabling, and hardware support",
+    "Knowledge of Windows desktop support and Active Directory",
+    "Experience with backup systems, DCIM, IP monitoring tools, and Network Management Systems",
+    "Basic understanding of facility infrastructure, including power and cooling systems",
+    "Strong troubleshooting, communication, leadership, and organizational skills",
+    "Degree or diploma in Information Technology, Computer Science, Computer Engineering, or a related technical field is preferred"
+  ],
+  "preferredSkills": [
+    "Relevant Data Center certifications",
+    "Microsoft infrastructure certifications",
+    "Experience with enterprise facility management and monitoring platforms"
+  ],
+  "emailSubject": "Data Center Technician Team Leader",
+  "active": true
+},
+  {
+  "id": "cloud-infrastructure-operations-engineer",
+  "title": "Cloud & Infrastructure Operations Engineer",
+  "salary": "1,500 KWD / Month",
+  "location": "Kuwait",
+  "status": "Resident Engineer (Onsite)",
+  "overview": "Responsible for the day-to-day operation, monitoring, administration, and optimization of hybrid cloud and on-premises infrastructure. The role focuses on Microsoft Azure, Nutanix, Cohesity, Fortinet security solutions, and Microsoft Defender while ensuring high availability, security, disaster recovery readiness, and operational excellence.",
+  "responsibilities": [
+    "Administer and maintain Microsoft Azure IaaS and PaaS environments",
+    "Manage Azure RBAC, Policies, Governance, and cloud security",
+    "Administer Nutanix AHV, AOS, Prism, virtualization, and storage infrastructure",
+    "Manage Cohesity backup, replication, and disaster recovery solutions",
+    "Configure and maintain Fortinet Firewalls and Web Application Firewall (WAF)",
+    "Administer Microsoft Defender for Endpoint, Identity, and Cloud Apps",
+    "Monitor threats, vulnerabilities, and security events",
+    "Provide L2/L3 infrastructure support and troubleshooting",
+    "Coordinate with vendors for incident resolution and infrastructure maintenance",
+    "Prepare technical documentation, operational reports, and infrastructure recommendations"
+  ],
+  "qualifications": [
+    "Bachelor's degree in Computer Science, Computer Engineering, or equivalent",
+    "Strong experience administering Microsoft Azure (IaaS and PaaS)",
+    "Experience managing Nutanix AHV, AOS, and Prism",
+    "Experience with Cohesity backup and disaster recovery solutions",
+    "Experience administering Fortinet FortiGate firewalls and WAF",
+    "Experience with Microsoft Defender security products",
+    "Strong knowledge of networking, virtualization, and cybersecurity best practices",
+    "Experience providing L2/L3 infrastructure support"
+  ],
+  "preferredSkills": [
+    "Microsoft Azure Administrator (AZ-104)",
+    "Nutanix Certified Professional (NCP)",
+    "Fortinet NSE 4, Cohesity Certified Administrator (CCA), Microsoft Security (SC-200), or ITIL v4 certifications"
+  ],
+  "emailSubject": "Cloud & Infrastructure Operations Engineer",
+  "active": true
+},
 {
   "id": "dot-net-developer-arabic-speaker",
   "title": ".NET Developer (Arabic Speaker)",

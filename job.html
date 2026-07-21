@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position Details</title>
+</head>
+<body>
+
+<div id="job-content">
+    <p>Loading position...</p>
+</div>
+
+<script>
+    const params = new URLSearchParams(window.location.search);
+    const jobId = params.get("id");
+
+    fetch("positions.json")
+        .then(response => response.json())
+        .then(positions => {
+            const job = positions.find(position => position.id === jobId);
+            const container = document.getElementById("job-content");
+
+            if (!job) {
+                container.innerHTML = `
+                    <h1>Position Not Found</h1>
+                    <p>This position does not exist or is no longer available.</p>
+                    <p><a href="index.html">← Back to Open Positions</a></p>
+                `;
+                return;
+            }
+
+            document.title = job.title;
+
+            const responsibilities = job.responsibilities
+                .map(item => `<li>${item}</li>`)
+                .join("");
+
+            const qualifications = job.qualifications
+                .map(item => `<li>${item}</li>`)
+                .join("");
+
+            const preferredSkills = job.preferredSkills
+                .map(item => `<li>${item}</li>`)
+                .join("");
+
+            const emailSubject = encodeURIComponent(job.emailSubject);
+
+            container.innerHTML = `
+                <h1>${job.title}</h1>
+
+                <p><strong>Salary:</strong> ${job.salary}</p>
+                <p><strong>Location:</strong> ${job.location}</p>
+                <p><strong>Status:</strong> ${job.status}</p>
+
+                <hr>
+
+                <h2>Position Overview</h2>
+                <p>${job.overview}</p>
+
+                <h2>Key Responsibilities</h2>
+                <ul>${responsibilities}</ul>
+
+                <h2>Qualifications</h2>
+                <ul>${qualifications}</ul>
+
+                <h2>Preferred Skills</h2>
+                <ul>${preferredSkills}</ul>
+
+                <h2>Application</h2>
+
+                <p>Click below and attach your CV to the generated email.</p>
+
+                <p>
+                    <a href="mailto:mjamal@kbm-kw.com?subject=${emailSubject}">
+                        Apply for ${job.title}
+                    </a>
+                </p>
+
+                <hr>
+
+                <p>
+                    <a href="index.html">← Back to Open Positions</a>
+                </p>
+            `;
+        })
+        .catch(error => {
+            document.getElementById("job-content").innerHTML = `
+                <h1>Error Loading Position</h1>
+                <p>The position details could not be loaded.</p>
+                <p><a href="index.html">← Back to Open Positions</a></p>
+            `;
+
+            console.error(error);
+        });
+</script>
+
+</body>
+</html>

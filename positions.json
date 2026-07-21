@@ -1,0 +1,38 @@
+[
+  {
+    "id": "windows-server-administrator",
+    "title": "Windows Server Administrator",
+    "salary": "800 KWD / Month",
+    "location": "Kuwait",
+    "status": "On contract start, hiring will begin if you have been accepted and passed interviews",
+    "overview": "Seeking a Windows Server Administrator to manage, maintain, secure, and support Windows Server infrastructure and related enterprise services.",
+    "responsibilities": [
+      "Install, configure, and maintain Windows Server systems",
+      "Manage Active Directory, DNS, DHCP, and Group Policy",
+      "Monitor server health, performance, and capacity",
+      "Apply patches, updates, and security configurations",
+      "Manage virtual environments on Hyper-V and Nutanix AHV",
+      "Troubleshoot and resolve server issues",
+      "Manage file shares, permissions, and user access",
+      "Perform backups and disaster recovery testing",
+      "Document configurations, procedures, and changes",
+      "Work with the IT team to plan and execute infrastructure upgrades",
+      "Ensure high availability, security, and performance of servers supporting business operations within SLA requirements"
+    ],
+    "qualifications": [
+      "Bachelor’s degree in Computer Science, IT, or related field preferred",
+      "3+ years of experience managing Windows Server environments",
+      "Strong knowledge of Windows Server 2016, 2019, 2022, and 2025",
+      "Experience with virtualization, including Nutanix and Hyper-V",
+      "Familiarity with PowerShell scripting",
+      "Strong troubleshooting and problem-solving skills"
+    ],
+    "preferredSkills": [
+      "Experience with Azure or other cloud platforms",
+      "Knowledge of backup and disaster recovery tools",
+      "Experience with security compliance and hardening"
+    ],
+    "emailSubject": "Windows Server Administrator",
+    "active": true
+  }
+]

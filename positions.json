@@ -1,3 +1,4 @@
+[
 {
   "id": "dot-net-developer-arabic-speaker",
   "title": ".NET Developer (Arabic Speaker)",
@@ -38,7 +39,6 @@
   "emailSubject": ".NET Developer",
   "active": true
 }
-[
   {
     "id": "windows-server-administrator",
     "title": "Windows Server Administrator",

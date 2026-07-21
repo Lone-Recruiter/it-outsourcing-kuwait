@@ -9,27 +9,47 @@
 
 <p>Select a position to view details and apply:</p>
 
-<ul>
-    <li><a href="job.html?id=windows-server-administrator">Windows Server Administrator</a></li>
-    <li><a href="positions/ecm-lead-it-specialist.html">ECM Lead IT Specialist (II)</a></li>
-    <li><a href="positions/ecm-lead-system-administrator.html">ECM Lead System Administrator</a></li>
-    <li><a href="positions/ecm-senior-system-support.html">ECM Senior System Support</a></li>
-    <li><a href="positions/ecm-developer-ii.html">ECM Developer (II)</a></li>
-    <li><a href="positions/ecm-system-engineer.html">ECM System Engineer</a></li>
-    <li><a href="positions/ecm-lead-system-business-analyst.html">ECM Lead System Business Analyst</a></li>
-    <li><a href="positions/ecm-system-support.html">ECM System Support</a></li>
-    <li><a href="positions/DOT-NET-Developer.html">.NET Developer (Arabic Speaker)</a></li>
-    <li><a href="positions/senior-ibm-db2-on-zos.html">Senior IBM DB2 on z/OS Specialist</a></li>
-    <li><a href="positions/senior-zos-system-administrator.html">Senior z/OS System Administrator</a></li>
-    <li><a href="positions/junior-zos-system-administrator.html">Junior z/OS System Administrator</a></li>
-    <li><a href="positions/data-center-technician.html">Data Center Technician</a></li>
-    <li><a href="positions/data-center-technician-team-leader.html">Data Center Technician Team Leader</a></li>
-    <li><a href="positions/red-hat-open-shift.html">Red Hat OpenShift Administrator</a></li>
-    <li><a href="positions/network-security-engineer-fortinet.html">Network Security Engineer - Fortinet (Arabic Speaker)</a></li>
-    <li><a href="positions/cloud-and-infrastructure-operations-engineer.html">Cloud & Infrastructure Operations Engineer</a></li> 
+<ul id="open-positions">
+    <li>Loading...</li>
 </ul>
-    
 
 <h1>Closed Positions</h1>
 
-<p>The following positions have been closed, however you can still submit your cv for future similar positions:</p>
+<p>The following positions have been closed, however you can still submit your CV for future similar positions:</p>
+
+<ul id="closed-positions">
+</ul>
+
+<script>
+fetch("positions.json")
+.then(response => response.json())
+.then(positions => {
+
+    const openList = document.getElementById("open-positions");
+    const closedList = document.getElementById("closed-positions");
+
+    openList.innerHTML = "";
+    closedList.innerHTML = "";
+
+    positions.forEach(job => {
+
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+
+        a.href = `job.html?id=${job.id}`;
+        a.textContent = job.title;
+
+        li.appendChild(a);
+
+        if(job.active)
+            openList.appendChild(li);
+        else
+            closedList.appendChild(li);
+
+    });
+
+});
+</script>
+
+</body>
+</html>

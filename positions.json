@@ -1,5 +1,73 @@
 [
   {
+  "id": "integration-system-administrator",
+  "title": "Integration System Administrator",
+  "salary": "1,800 KWD / Month",
+  "location": "Kuwait",
+  "status": "On contract start, hiring will begin if you have been accepted and passed interviews",
+  "overview": "We are looking for an experienced Integration System Administrator to support and maintain IBM integration platforms, APIs, and middleware solutions. The successful candidate will administer enterprise integration services while ensuring high availability, security, and performance across the environment.",
+  "responsibilities": [
+    "Administer IBM MQ environments on z/OS and Windows.",
+    "Manage IBM Cloud Pak for Integration (CP4I).",
+    "Support IBM API Connect deployments and administration.",
+    "Maintain REST APIs, OpenAPI/Swagger specifications, and API security.",
+    "Administer IBM WebSphere Liberty environments.",
+    "Support IBM WebSphere Application Server infrastructure.",
+    "Manage Red Hat OpenShift and Kubernetes platforms.",
+    "Troubleshoot production incidents and integration issues.",
+    "Implement platform updates, patches, and configuration changes.",
+    "Prepare technical documentation and support operational activities."
+  ],
+  "qualifications": [
+    "Bachelor's degree in Computer Engineering, Computer Science, Information Technology, or a related field.",
+    "Minimum 5 years of relevant integration platform administration experience.",
+    "Experience with IBM MQ, IBM Cloud Pak for Integration (CP4I), and IBM API Connect.",
+    "Experience with IBM WebSphere, Red Hat OpenShift, and Kubernetes.",
+    "Under 35 years of age."
+  ],
+  "preferredSkills": [
+    "Knowledge of REST APIs, OpenAPI/Swagger, API Security, and API Lifecycle Management.",
+    "Strong troubleshooting and production support skills.",
+    "Excellent communication and documentation skills."
+  ],
+  "emailSubject": "Integration System Administrator",
+  "active": true
+},
+  {
+  "id": "ibm-zos-zvm-system-programmer",
+  "title": "IBM z/OS and z/VM System Programmer",
+  "salary": "1,800 KWD / Month",
+  "location": "Kuwait",
+  "status": "On contract start, hiring will begin if you have been accepted and passed interviews",
+  "overview": "We are seeking an experienced IBM z/OS and z/VM System Programmer to manage, maintain, and optimize IBM Mainframe environments. The successful candidate will be responsible for system installation, configuration, administration, troubleshooting, and ensuring the reliability, security, and performance of enterprise mainframe infrastructure.",
+  "responsibilities": [
+    "Install, configure, maintain, and support IBM z/OS and IBM z/VM environments.",
+    "Perform system upgrades, maintenance, and troubleshooting activities.",
+    "Administer RACF security, TCP/IP, JES2, SMP/E, and z/OS UNIX (USS).",
+    "Monitor and optimize system performance and availability.",
+    "Perform backup, recovery, and disaster recovery planning and testing.",
+    "Maintain IBM Mainframe infrastructure and supporting components.",
+    "Diagnose and resolve production system issues.",
+    "Apply system patches and software updates.",
+    "Prepare technical documentation and operational procedures.",
+    "Collaborate with infrastructure and application teams to ensure platform stability."
+  ],
+  "qualifications": [
+    "Bachelor's degree in Computer Engineering, Computer Science, Information Technology, or a related field.",
+    "Minimum 5 years of relevant IBM Mainframe administration experience.",
+    "Experience with IBM z/OS and IBM z/VM administration.",
+    "Knowledge of RACF, TCP/IP, JES2, SMP/E, and z/OS UNIX (USS).",
+    "Under 35 years of age."
+  ],
+  "preferredSkills": [
+    "Strong troubleshooting and analytical skills.",
+    "Experience with system performance tuning and disaster recovery.",
+    "Excellent communication and documentation skills."
+  ],
+  "emailSubject": "IBM zOS and zVM System Programmer",
+  "active": true
+},
+  {
   "id": "senior-dot-net-developer",
   "title": "Senior .NET Developer",
   "salary": "2,000 KWD / Month",

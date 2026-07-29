@@ -1,5 +1,46 @@
 [
   {
+  "id": "cics-cobol-programmer",
+  "title": "CICS / COBOL Programmer (Arabic Speaker)",
+  "salary": "1,500 KWD / Month",
+  "location": "Kuwait",
+  "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+  "overview": "We are looking for an experienced, Arabic Speaking, CICS / COBOL Programmer to develop, maintain, and support IBM Mainframe applications running on IBM z/OS. The successful candidate will be responsible for developing both online and batch applications, enhancing existing enterprise systems, troubleshooting production issues, and supporting business-critical applications in a large-scale enterprise environment.",
+  "responsibilities": [
+    "Develop and maintain IBM COBOL applications.",
+    "Develop and support online CICS programs.",
+    "Develop and maintain batch processing applications using JCL.",
+    "Analyze, troubleshoot, and resolve production issues.",
+    "Modify and enhance existing legacy applications.",
+    "Develop and maintain DB2 database programs and SQL queries.",
+    "Perform application testing and support system implementation.",
+    "Participate in system analysis, design, and technical documentation.",
+    "Support production deployments and ongoing application maintenance.",
+    "Collaborate with business users and technical teams to implement system enhancements."
+  ],
+  "qualifications": [
+    "Bachelor's degree in Computer Engineering, Computer Science, Information Technology, or a related field.",
+    "Minimum 10 years of IBM Mainframe application development experience.",
+    "Strong experience with COBOL, CICS, JCL, IBM z/OS, and DB2.",
+    "Experience developing and supporting both Online (CICS) and Batch applications.",
+    "Experience maintaining and enhancing enterprise legacy systems.",
+    "Must be able to communicate effectively in Arabic."
+  ],
+  "preferredSkills": [
+    "Candidates currently residing in Kuwait are preferred.",
+    "Experience with IMS / DL-I.",
+    "Experience with TSO / ISPF.",
+    "Experience using Endevor or similar source control tools.",
+    "Experience with FileAid, File Manager, QMF, and SPUFI.",
+    "Experience with VSAM and CA-7.",
+    "Experience in Banking, Insurance, Pension, Government, or other enterprise mainframe environments.",
+    "Strong analytical, troubleshooting, and production support skills.",
+    "Excellent communication and technical documentation skills."
+  ],
+  "emailSubject": "CICS COBOL Programmer",
+  "active": true
+},
+  {
   "id": "integration-system-administrator",
   "title": "Integration System Administrator",
   "salary": "1,800 KWD / Month",

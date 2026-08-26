@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <meta name="referrer" content="no-referrer" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src https://dsvjuvryxbjtbsaqjpoi.supabase.co; script-src 'self'; style-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'" />
+    <title>KBM Secure Document Viewer</title>
+    <script type="module" crossorigin src="/it-outsourcing-kuwait/document-viewer/assets/index-DXePMPu0.js"></script>
+    <link rel="stylesheet" crossorigin href="/it-outsourcing-kuwait/document-viewer/assets/index-BKzlXk_K.css">
+  </head>
+  <body>
+    <main class="viewer-shell">
+      <section class="viewer-card" aria-live="polite">
+        <div class="viewer-mark" aria-hidden="true">KBM</div>
+        <p class="eyebrow">Protected temporary access</p>
+        <h1 id="viewer-title">Preparing secure document</h1>
+        <p id="viewer-message" class="viewer-message">Connecting to your signed-in dashboard session.</p>
+
+        <div id="progress-region" class="progress-region">
+          <div class="progress-heading">
+            <span id="progress-stage">Starting request</span>
+            <strong id="progress-value">5%</strong>
+          </div>
+          <div class="progress-track" role="progressbar" aria-label="Document preparation progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="5">
+            <div id="progress-bar" class="progress-bar" style="width:5%"></div>
+          </div>
+          <small id="progress-detail">The document remains on the KBM computer until the secure courier prepares this temporary copy.</small>
+        </div>
+
+        <div id="error-region" class="error-region" hidden>
+          <strong>The document could not be opened.</strong>
+          <p id="error-message"></p>
+        </div>
+
+        <div class="viewer-actions">
+          <button id="retry-button" class="primary-button" type="button" hidden>Try again</button>
+          <button id="close-button" class="secondary-button" type="button">Close window</button>
+        </div>
+        <p class="privacy-note">The temporary copy expires automatically after ten minutes. Nothing is permanently stored here.</p>
+      </section>
+    </main>
+  </body>
+</html>

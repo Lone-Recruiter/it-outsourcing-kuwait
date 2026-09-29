@@ -833,5 +833,44 @@
     ],
     "emailSubject": "Windows Server Administrator",
     "active": true
+  },
+  {
+    "id": "ibm-app-connect-api-connect-specialist",
+    "title": "IBM App Connect & API Connect Specialist",
+    "salary": "1,500 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "We are seeking an IBM App Connect & API Connect Specialist to design, develop, secure, deploy, and support enterprise integration and API solutions. The role combines IBM App Connect Enterprise and IBM API Connect expertise with delivery across IBM Power LPAR and Red Hat OpenShift environments. Please share your CV/profile, availability, and relevant project experience when applying.",
+    "responsibilities": [
+      "Design and develop integration flows using IBM App Connect Enterprise",
+      "Design and implement REST APIs using IBM API Connect",
+      "Configure API security, policies, and lifecycle management",
+      "Integrate IBM MQ and troubleshoot messaging issues",
+      "Deploy and support integration and API services on IBM Power LPARs and Red Hat OpenShift",
+      "Plan and perform production deployments and monitoring",
+      "Troubleshoot connectivity, deployment, and performance issues",
+      "Prepare technical documentation and transfer knowledge",
+      "Work directly with KAC technical teams on requirements, deployment, and support"
+    ],
+    "qualifications": [
+      "Minimum 5 years of hands-on experience with IBM App Connect Enterprise",
+      "Minimum 5 years of hands-on experience with IBM API Connect",
+      "Practical experience across both IBM Power LPAR and Red Hat OpenShift environments"
+    ],
+    "preferredSkills": [
+      "Integration flow design and development",
+      "REST API design and implementation",
+      "API security and policy configuration",
+      "API lifecycle management",
+      "IBM MQ integration and troubleshooting",
+      "Deployment and support on IBM Power LPARs",
+      "Deployment and support on Red Hat OpenShift",
+      "Production deployment and monitoring",
+      "Troubleshooting connectivity, deployment, and performance issues",
+      "Technical documentation and knowledge transfer",
+      "Strong communication skills"
+    ],
+    "emailSubject": "IBM App Connect & API Connect Specialist",
+    "active": true
   }
 ]

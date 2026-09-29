@@ -396,7 +396,7 @@
     "Commitment to continuous learning and service improvement"
   ],
   "emailSubject": "ECM System Support",
-  "active": true
+  "active": false
 },
   {
   "id": "ecm-system-engineer",
@@ -439,7 +439,7 @@
     "Experience working on large-scale enterprise transformation projects"
   ],
   "emailSubject": "ECM System Engineer",
-  "active": true
+  "active": false
 },
   {
   "id": "ecm-senior-system-support",
@@ -479,7 +479,7 @@
     "Commitment to continuous service improvement and operational excellence"
   ],
   "emailSubject": "ECM Senior System Support",
-  "active": true
+  "active": false
 },
   {
   "id": "ecm-lead-system-business-analyst",
@@ -518,7 +518,7 @@
     "Experience delivering large-scale IBM ECM projects"
   ],
   "emailSubject": "ECM Lead System Business Analyst",
-  "active": true
+  "active": false
 },
   {
   "id": "ecm-lead-system-administrator",
@@ -560,7 +560,7 @@
     "Experience supporting large-scale IBM ECM environments"
   ],
   "emailSubject": "ECM Lead System Administrator",
-  "active": true
+  "active": false
 },
   {
   "id": "ecm-lead-it-specialist-ii",
@@ -602,7 +602,7 @@
     "Experience delivering large-scale enterprise digital transformation projects"
   ],
   "emailSubject": "ECM Lead IT Specialist (II)",
-  "active": true
+  "active": false
 },
   {
   "id": "ecm-developer-ii",
@@ -644,7 +644,7 @@
     "Experience delivering large-scale enterprise software projects"
   ],
   "emailSubject": "ECM Developer (II)",
-  "active": true
+  "active": false
 },
   {
   "id": "data-center-technician",

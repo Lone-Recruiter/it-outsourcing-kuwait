@@ -872,5 +872,39 @@
     ],
     "emailSubject": "IBM App Connect & API Connect Specialist",
     "active": true
+  },
+  {
+    "id": "open-system-operator",
+    "title": "Open System Operator",
+    "salary": "400 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "We are seeking an Open System Operator to monitor systems and applications, support routine IT operations, and maintain reliable day-to-day operations in a 24/7 rotational-shift environment.",
+    "responsibilities": [
+      "Monitor systems, applications, scheduled jobs, batch processes, alerts, and system status",
+      "Perform basic troubleshooting and first-level incident handling",
+      "Follow SOPs, checklists, and escalation procedures",
+      "Monitor backups and perform routine backup operations",
+      "Maintain shift logs, reports, and handovers",
+      "Work 24/7 rotational shifts"
+    ],
+    "qualifications": [
+      "Diploma or Bachelor's degree in IT, Computer Science, Computer Engineering, or a related field",
+      "At least 3 years of experience in IT operations, system operations, data centre operations, or similar",
+      "Basic knowledge of Windows and/or Linux/Unix environments",
+      "Experience with system/application monitoring",
+      "Ability to monitor scheduled jobs, batch processes, alerts, and system status",
+      "Experience with backup monitoring or routine backup operations",
+      "Basic understanding of servers, networks, and data-centre operations",
+      "Good communication skills",
+      "Ability to work 24/7 rotational shifts"
+    ],
+    "preferredSkills": [
+      "Basic troubleshooting and first-level incident handling",
+      "Following SOPs, checklists, and escalation procedures",
+      "Maintaining shift logs, reports, and handovers"
+    ],
+    "emailSubject": "Open System Operator",
+    "active": true
   }
 ]

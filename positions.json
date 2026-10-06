@@ -906,5 +906,43 @@
     ],
     "emailSubject": "Open System Operator",
     "active": true
+  },
+  {
+    "id": "senior-spss-statistical-analyst",
+    "title": "Senior SPSS Statistical Analyst",
+    "salary": "1,200 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "We are seeking a Senior SPSS Statistical Analyst to lead statistical analysis and research projects, translate complex findings into actionable recommendations, and support evidence-based planning and decision-making.",
+    "responsibilities": [
+      "Conduct statistical analyses, research studies, feasibility studies, and analytical projects",
+      "Analyze large datasets, interpret results, identify trends, and prepare actionable recommendations",
+      "Design research methodologies, sampling approaches, data collection, and statistical models",
+      "Define study objectives, scope, methodology, resources, and analytical techniques",
+      "Develop analytical frameworks, business strategies, and improvement initiatives",
+      "Support project planning, project management, strategic planning, and business analysis",
+      "Prepare reports and present complex statistical findings clearly",
+      "Provide training and knowledge-transfer workshops on analytical work"
+    ],
+    "qualifications": [
+      "Bachelor's degree in Statistics, Data Analysis, Business Analytics, Economics, Mathematics, or a related field",
+      "At least 10 years of relevant experience in statistical analysis, research, field studies, or strategic planning",
+      "At least 10 years of hands-on experience with IBM SPSS Statistics and related analytical software",
+      "Strong experience conducting research studies, feasibility studies, statistical assessments, and analytical projects"
+    ],
+    "preferredSkills": [
+      "Master's degree in a related field",
+      "Professional training or certifications in statistical analysis and research methodologies",
+      "Experience in project planning, project management, strategic planning, and business analysis",
+      "Ability to analyze large datasets, interpret statistical results, identify trends, and turn findings into actionable recommendations",
+      "Strong understanding of research methodologies, sampling techniques, data collection, statistical modelling, and analytical techniques",
+      "Experience developing business strategies, analytical frameworks, and improvement initiatives",
+      "Ability to define study objectives, scope, methodology, resource requirements, and appropriate analytical techniques",
+      "Strong presentation and report-writing skills, with the ability to communicate complex statistical findings clearly",
+      "Ability to prepare and deliver training sessions or knowledge-transfer workshops related to analytical work",
+      "Strong problem-solving, critical-thinking, and communication skills"
+    ],
+    "emailSubject": "Senior SPSS Statistical Analyst",
+    "active": true
   }
 ]

@@ -944,5 +944,39 @@
     ],
     "emailSubject": "Senior SPSS Statistical Analyst",
     "active": true
+  },
+  {
+    "id": "ibm-safer-payments-technical-consultant",
+    "title": "IBM Safer Payments Technical Consultant",
+    "salary": "1,800 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "We are seeking an IBM Safer Payments Technical Consultant to configure, develop, implement, integrate, and support fraud prevention and transaction-monitoring solutions for banking and financial services environments.",
+    "responsibilities": [
+      "Configure, develop, implement, and provide technical support for IBM Safer Payments.",
+      "Develop and optimize fraud-detection rules, risk indicators, and transaction monitoring.",
+      "Integrate IBM Safer Payments with banking systems, APIs, payment platforms, and external data sources.",
+      "Develop fraud-prevention enhancements, automation workflows, and transaction-profiling solutions.",
+      "Troubleshoot, test, deploy, and optimize system performance and prepare technical documentation.",
+      "Provide BAU support, including incident resolution, system maintenance, and operational enhancements.",
+      "Collaborate with banking IT, fraud-prevention, and business teams.",
+      "Provide technical knowledge transfer and support to internal teams."
+    ],
+    "qualifications": [
+      "Hands-on experience in IBM Safer Payments configuration, development, implementation, and technical support.",
+      "Experience developing, configuring, and optimizing fraud-detection rules, risk indicators, and transaction monitoring.",
+      "Strong understanding of banking operations, card payments, ATM/POS transactions, digital banking, and fraud prevention.",
+      "Experience integrating IBM Safer Payments with banking systems, APIs, payment platforms, and external data sources.",
+      "Ability to develop and implement fraud-prevention enhancements, automation workflows, and transaction-profiling solutions.",
+      "Experience in system troubleshooting, testing, deployment, performance optimization, and technical documentation.",
+      "Ability to provide BAU support, including incident resolution, system maintenance, and operational enhancements.",
+      "Experience collaborating with banking IT, fraud-prevention, and business teams.",
+      "Ability to provide technical knowledge transfer and support to internal teams."
+    ],
+    "preferredSkills": [
+      "Previous IBM Safer Payments implementation or support experience within a banking or financial-services environment."
+    ],
+    "emailSubject": "IBM Safer Payments Technical Consultant",
+    "active": true
   }
 ]

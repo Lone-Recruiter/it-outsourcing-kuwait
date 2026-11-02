@@ -18,7 +18,7 @@
     fetch("positions.json")
         .then(response => response.json())
         .then(positions => {
-            const job = positions.find(position => position.id === jobId);
+            const job = positions.find(position => position.id === jobId && position.active === true);
             const container = document.getElementById("job-content");
 
             if (!job) {

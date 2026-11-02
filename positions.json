@@ -1044,5 +1044,37 @@
     "preferredSkills": [],
     "emailSubject": "Network Security Specialist",
     "active": true
+  },
+  {
+    "id": "infrastructure-security-specialist",
+    "title": "Infrastructure Security Specialist",
+    "salary": "1,200 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "Seeking an Infrastructure Security Specialist with at least four years of infrastructure security experience. The role covers on-premises and cloud security operations, security platforms, Windows Server environments, automation, and infrastructure protection.",
+    "responsibilities": [
+      "Deploy and maintain SIEM, EDR, and VMS platforms",
+      "Oversee infrastructure security operations",
+      "Automate security health checks and recovery",
+      "Ensure security compliance across on-premises and cloud environments",
+      "Monitor cloud security posture",
+      "Evaluate and introduce new security technologies",
+      "Coordinate security practices across IT teams"
+    ],
+    "qualifications": [
+      "Minimum 4 years in infrastructure security",
+      "Experience with Windows Server environments, including AD, MECM, and remote tools",
+      "Experience with SIEM, EDR, and VMS security platforms",
+      "Experience with server and system security operations",
+      "Experience automating health checks, backups, and recovery",
+      "Experience with cloud security posture management",
+      "Knowledge of Azure Security Center",
+      "Experience with cloud security architecture",
+      "Experience with containerization and DevSecOps",
+      "Knowledge of PKI infrastructure and SSL technologies"
+    ],
+    "preferredSkills": [],
+    "emailSubject": "Infrastructure Security Specialist",
+    "active": true
   }
 ]

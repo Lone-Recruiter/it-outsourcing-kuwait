@@ -978,5 +978,43 @@
     ],
     "emailSubject": "IBM Safer Payments Technical Consultant",
     "active": true
+  },
+  {
+    "id": "network-infrastructure-specialist",
+    "title": "Network / Infrastructure Specialist",
+    "salary": "850 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "Seeking a Network / Infrastructure Specialist with at least four years in network design, implementation, and infrastructure management. The role supports enterprise network and data-center environments, including routing, switching, security, resilience, and multi-vendor integration.",
+    "responsibilities": [
+      "Install, configure, and maintain routers, switches, and firewalls",
+      "Monitor network performance and troubleshoot outages",
+      "Implement routing, VLANs, VPNs, and firewall rules",
+      "Perform backups and disaster-recovery testing",
+      "Maintain cabling standards",
+      "Document configurations and procedures",
+      "Manage secure wireless environments"
+    ],
+    "qualifications": [
+      "Minimum 4 years in network design, implementation, and infrastructure management",
+      "Networking experience with VLAN, trunking, LACP, PAgP, OSPF, and BGP",
+      "Knowledge of TCP/IP, DNS, DHCP, and IBM SNA",
+      "Experience with high-availability and high-performance network design",
+      "Experience with cluster technologies and hardware load balancing",
+      "Knowledge of SAN and NAS storage",
+      "Firewall experience with Cisco, Palo Alto, or Fortinet",
+      "Knowledge of LDAP, RADIUS, and PKI for identity and security",
+      "Experience with structured fiber and UTP cabling",
+      "Experience with data-center and backup-site architecture",
+      "Experience integrating multi-vendor networks",
+      "Knowledge of converged IP networks for voice, video, and data",
+      "Knowledge of PSTN, service-provider delivery mechanisms, and VoIP",
+      "Experience with wireless network design and security",
+      "Experience with redundant Internet and Intranet architectures",
+      "Experience defining and enforcing network security policies"
+    ],
+    "preferredSkills": [],
+    "emailSubject": "Network Infrastructure Specialist",
+    "active": true
   }
 ]

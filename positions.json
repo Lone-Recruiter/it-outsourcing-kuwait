@@ -1016,5 +1016,33 @@
     "preferredSkills": [],
     "emailSubject": "Network Infrastructure Specialist",
     "active": true
+  },
+  {
+    "id": "network-security-specialist",
+    "title": "Network Security Specialist",
+    "salary": "1,200 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "Seeking a Network Security Specialist with at least four years of network security experience. The role focuses on secure network architecture, security controls, vulnerability assessment, policy enforcement, and network traffic analysis.",
+    "responsibilities": [
+      "Design secure network architectures",
+      "Implement and manage security controls",
+      "Conduct vulnerability assessments",
+      "Enforce network security policies",
+      "Perform deep packet inspection",
+      "Coordinate with IT teams on security best practices"
+    ],
+    "qualifications": [
+      "Minimum 4 years in network security",
+      "Experience with multi-vendor firewalls, IDS, IPS, VPNs, and load balancers",
+      "Knowledge of TLS, SSL, and IPsec encryption",
+      "Experience conducting network security reviews, audits, and assessments",
+      "Experience with security policy development",
+      "Experience with packet analysis tools such as Wireshark and tcpdump",
+      "Knowledge of BGP, TCP, UDP, IPv4, and IPv6"
+    ],
+    "preferredSkills": [],
+    "emailSubject": "Network Security Specialist",
+    "active": true
   }
 ]

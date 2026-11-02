@@ -1076,5 +1076,35 @@
     "preferredSkills": [],
     "emailSubject": "Infrastructure Security Specialist",
     "active": true
+  },
+  {
+    "id": "senior-zos-db2-administrator",
+    "title": "Senior z/OS DB2 Administrator",
+    "salary": "1,700 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "Seeking a Senior z/OS DB2 Administrator with at least 10 years of DB2 for z/OS experience. The role supports enterprise databases across test and production environments, with responsibilities spanning database administration, upgrades, performance, security, and recovery.",
+    "responsibilities": [
+      "Provide DB2 technical support",
+      "Configure and manage databases in test and production environments",
+      "Install and maintain DB2 tools",
+      "Apply vendor updates safely",
+      "Monitor and improve database performance",
+      "Ensure database security, backups, and archiving",
+      "Mentor junior DBAs"
+    ],
+    "qualifications": [
+      "Minimum 10 years of experience with DB2 for z/OS",
+      "Experience with DB2 on z/OS",
+      "Knowledge of JCL, SQL, DDL, DML, and DCL",
+      "Experience with IBM DB2 tools: REORG, RUNSTATS, SPUFI, and QMF",
+      "Knowledge of database design methodologies",
+      "Experience with data migration and upgrades",
+      "Experience integrating MS-SQL, DB2 UDB, and DB2 for z/OS",
+      "Experience with performance tuning and monitoring"
+    ],
+    "preferredSkills": [],
+    "emailSubject": "Senior zOS DB2 Administrator",
+    "active": true
   }
 ]

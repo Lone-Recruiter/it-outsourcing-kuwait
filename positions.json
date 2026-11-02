@@ -38,7 +38,7 @@
     "Excellent communication and technical documentation skills."
   ],
   "emailSubject": "CICS COBOL Programmer",
-  "active": true
+  "active": false
 },
   {
   "id": "integration-system-administrator",
@@ -279,7 +279,7 @@
     "Strong documentation and communication skills"
   ],
   "emailSubject": "Red Hat OpenShift Administrator",
-  "active": true
+  "active": false
 },
   {
   "id": "network-security-engineer-fortinet",
@@ -681,7 +681,7 @@
     "Experience with enterprise monitoring and facility management systems"
   ],
   "emailSubject": "Data Center Technician",
-  "active": true
+  "active": false
 },
   {
   "id": "data-center-technician-team-leader",
@@ -719,7 +719,7 @@
     "Experience with enterprise facility management and monitoring platforms"
   ],
   "emailSubject": "Data Center Technician Team Leader",
-  "active": true
+  "active": false
 },
   {
   "id": "cloud-infrastructure-operations-engineer",
@@ -756,7 +756,7 @@
     "Fortinet NSE 4, Cohesity Certified Administrator (CCA), Microsoft Security (SC-200), or ITIL v4 certifications"
   ],
   "emailSubject": "Cloud & Infrastructure Operations Engineer",
-  "active": true
+  "active": false
 },
 {
   "id": "dot-net-developer-arabic-speaker",
@@ -796,7 +796,7 @@
     "Advanced knowledge of enterprise application architecture and integration"
   ],
   "emailSubject": ".NET Developer",
-  "active": true
+  "active": false
 },
   {
     "id": "windows-server-administrator",
@@ -832,7 +832,7 @@
       "Experience with security compliance and hardening"
     ],
     "emailSubject": "Windows Server Administrator",
-    "active": true
+    "active": false
   },
   {
     "id": "ibm-app-connect-api-connect-specialist",
@@ -905,7 +905,7 @@
       "Maintaining shift logs, reports, and handovers"
     ],
     "emailSubject": "Open System Operator",
-    "active": true
+    "active": false
   },
   {
     "id": "senior-spss-statistical-analyst",

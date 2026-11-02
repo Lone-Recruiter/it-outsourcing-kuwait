@@ -1106,5 +1106,41 @@
     "preferredSkills": [],
     "emailSubject": "Senior zOS DB2 Administrator",
     "active": true
+  },
+  {
+    "id": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "salary": "1,000 KWD / Month",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "Seeking a Full Stack Developer with at least four years of experience and a strong .NET application-development background. The role covers front-end and back-end development, application architecture, APIs, databases, testing, and ongoing enhancement of business applications.",
+    "responsibilities": [
+      "Analyze business requirements",
+      "Design application architecture",
+      "Develop front-end and back-end code",
+      "Build and maintain APIs",
+      "Test, deploy, and monitor applications",
+      "Debug, refactor, and optimize code",
+      "Enhance existing applications",
+      "Implement mobile-based features",
+      "Perform database CRUD operations"
+    ],
+    "qualifications": [
+      "Minimum 4 years of experience",
+      "Strong background as a .NET application developer",
+      "Experience with C#, VB.NET, HTML5, and CSS3",
+      "Experience with .NET Core, ASP.NET, MVC, and WCF",
+      "Experience with REST, AJAX, JSON, and jQuery",
+      "Experience with Angular or React",
+      "Knowledge of MVC and REST/RPC/SOAP architecture",
+      "Knowledge of SOLID, DDD, and OOP principles",
+      "Experience with Entity Framework",
+      "Experience using Git for version control",
+      "Experience with database design and manipulation",
+      "Experience with Agile methodologies"
+    ],
+    "preferredSkills": [],
+    "emailSubject": "Full Stack Developer",
+    "active": true
   }
 ]

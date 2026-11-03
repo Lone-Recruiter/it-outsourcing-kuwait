@@ -1142,5 +1142,47 @@
     "preferredSkills": [],
     "emailSubject": "Full Stack Developer",
     "active": true
+  },
+  {
+    "id": "systems-infrastructure-admin-microsoft-linux-backup",
+    "title": "Systems and Infrastructure Administrator – Microsoft, Linux and Backup",
+    "salary": "To be determined after passing the interview",
+    "location": "Kuwait",
+    "status": "Hiring commences immediately after passing and being accepted, taking Notice Period into account",
+    "overview": "Seeking a Systems and Infrastructure Administrator to support Microsoft, Linux, identity, backup, and virtualization environments. The position covers Windows Server and Active Directory, Microsoft 365 and Entra ID, Linux administration, Veeam backup and recovery, VMware or Hyper-V, disaster recovery, automation, and infrastructure support.",
+    "responsibilities": [
+      "Administer Windows Server, Active Directory, Group Policy, DNS, DHCP, domain controllers, and core Windows services; handle replication, patching, upgrades, and security hardening.",
+      "Manage Microsoft 365, Entra ID, Exchange Online, SharePoint Online, OneDrive, Teams, and Intune, including users, groups, licenses, hybrid identity, Conditional Access, MFA, and applicable Defender capabilities.",
+      "Administer production and test Linux servers, including RHEL, Ubuntu, or equivalent; manage users, permissions, filesystems, services, patches, logs, monitoring, networking, and basic Bash automation.",
+      "Operate Veeam Backup & Replication and applicable Microsoft 365 backups; maintain jobs and repositories, monitor results, restore files, VMs, and applications, manage retention, protect against accidental deletion or ransomware, and validate recovery.",
+      "Manage VMware vSphere and/or Microsoft Hyper-V environments, virtual machines, resource allocation, provisioning, performance, capacity, and SAN/NAS storage.",
+      "Support disaster-recovery and business-continuity planning, testing, recovery documentation, and RPO/RTO records where applicable.",
+      "Automate administration with PowerShell and Bash/Linux scripting; monitor infrastructure health, availability, and capacity; troubleshoot server, storage, backup, identity, and Microsoft 365 incidents.",
+      "Maintain infrastructure documentation and configuration records, coordinate with vendors and service providers, and provide technical support to IT teams and business users."
+    ],
+    "qualifications": [
+      "4–6 years of systems/infrastructure administration experience",
+      "Strong Windows Server administration experience",
+      "Strong knowledge of Active Directory, DNS, DHCP, and Group Policy (GPO)",
+      "Strong Microsoft 365 administration experience",
+      "Good Microsoft Entra ID and hybrid identity knowledge",
+      "Hands-on Intune experience",
+      "Hands-on Linux administration experience",
+      "Hands-on Veeam Backup & Replication experience",
+      "Good understanding of backup, restore, and disaster recovery",
+      "Experience with VMware and/or Hyper-V",
+      "Strong PowerShell skills",
+      "Basic-to-good Bash/Linux scripting skills",
+      "Good understanding of infrastructure security and networking",
+      "Experience troubleshooting complex infrastructure issues",
+      "Strong documentation and communication skills"
+    ],
+    "preferredSkills": [
+      "MS-102 – Microsoft 365 Administrator",
+      "AZ-800 / AZ-801 – Windows Server Hybrid Administrator",
+      "SC-300 – Identity and Access Administrator"
+    ],
+    "emailSubject": "Systems and Infrastructure Administrator – Microsoft, Linux and Backup",
+    "active": true
   }
 ]

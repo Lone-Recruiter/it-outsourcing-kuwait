@@ -13,32 +13,34 @@
     <li>Loading...</li>
 </ul>
 
+<script src="website-visibility.js"></script>
 <script>
-fetch("positions.json")
-.then(response => response.json())
-.then(positions => {
-
+Promise.all([
+    fetch("positions.json", { cache: "no-store" }).then(response => {
+        if (!response.ok) throw new Error("Positions could not be loaded.");
+        return response.json();
+    }),
+    window.KBMRecruitmentWebsite.loadVisibility()
+]).then(([positions, visibility]) => {
     const openList = document.getElementById("open-positions");
     openList.innerHTML = "";
 
-    positions.filter(job => job.active === true).forEach(job => {
-
+    positions.filter(job => window.KBMRecruitmentWebsite.isVisible(job, visibility)).forEach(job => {
         const li = document.createElement("li");
         const a = document.createElement("a");
-
-        a.href = `job.html?id=${job.id}`;
+        a.href = `job.html?id=${encodeURIComponent(job.id)}`;
         a.textContent = job.title;
-
         li.appendChild(a);
         openList.appendChild(li);
     });
 
-    if (openList.children.length === 0) {
-        openList.innerHTML = "<li>No positions are currently open.</li>";
-    }
-
+    if (openList.children.length === 0) openList.innerHTML = "<li>No positions are currently open.</li>";
+}).catch(error => {
+    document.getElementById("open-positions").innerHTML = "<li>Position availability could not be checked right now. Please refresh the page shortly.</li>";
+    console.error("Unable to verify recruitment website listings.", error);
 });
 </script>
 
 </body>
 </html>
+

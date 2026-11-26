@@ -1018,6 +1018,39 @@
     "active": true
   },
   {
+    "id": "network-mainframe-administrator-tcp-ip",
+    "title": "Network Mainframe Administrator - TCP-IP",
+    "salary": "1,400 KWD / Month",
+    "location": "Kuwait",
+    "status": "Must speak Arabic",
+    "overview": "We are seeking a skilled Network Mainframe Administrator (TCP/IP) to manage and maintain enterprise-level mainframe network systems in z/OS environments. The role requires hands-on experience in configuring and supporting TCP/IP stacks, ensuring secure connectivity, and optimizing performance across large-scale sysplex environments.",
+    "responsibilities": [
+      "Administer and configure z/OS TCP/IP stacks across multiple LPARs for secure, stable communication.",
+      "Customize and manage AT-TLS rules, Policy Agent (PAGENT), and VTAM nodes to ensure secure and efficient connectivity.",
+      "Perform TCP/IP port reservations, FTP/SFTP, and TN3270 server administration.",
+      "Automate network operations using REXX/NetView scripting to reduce manual workload.",
+      "Troubleshoot network issues, conduct traces and dumps, and coordinate with IBM support when needed.",
+      "Support installation, customization, and upgrades of network-related software (SMP/E)."
+    ],
+    "qualifications": [
+      "Must speak Arabic.",
+      "Bachelor's degree in Computer Science, Engineering, or a related field.",
+      "5+ years of experience in z/OS mainframe environments, with a strong focus on TCP/IP.",
+      "Proficiency in VTAM, TCP/IP, TN3270, FTP/SFTP, AT-TLS, RACF, and Policy Agent.",
+      "Hands-on experience with tools such as z/OSMF, NetMaster, SDSF, and TSO/ISPF.",
+      "Familiarity with SNA, IPsec, and TLS/SSL protocols.",
+      "Experience with JCL, REXX, or CLIST scripting and automation in mainframe systems.",
+      "Strong problem-solving, troubleshooting, and system optimization skills."
+    ],
+    "preferredSkills": [
+      "Exposure to large-scale sysplex environments with multi-LPAR operations.",
+      "Prior experience supporting banking or financial industry clients.",
+      "Certification in IBM z/OS system programming, networking, or related technologies."
+    ],
+    "emailSubject": "Network Mainframe Administrator - TCP-IP",
+    "active": true
+  },
+  {
     "id": "network-security-specialist",
     "title": "Network Security Specialist",
     "salary": "1,200 KWD / Month",

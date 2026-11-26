@@ -11,14 +11,20 @@
     <p>Loading position...</p>
 </div>
 
+<script src="website-visibility.js"></script>
 <script>
     const params = new URLSearchParams(window.location.search);
     const jobId = params.get("id");
 
-    fetch("positions.json")
-        .then(response => response.json())
-        .then(positions => {
-            const job = positions.find(position => position.id === jobId && position.active === true);
+    Promise.all([
+        fetch("positions.json", { cache: "no-store" }).then(response => {
+            if (!response.ok) throw new Error("Positions could not be loaded.");
+            return response.json();
+        }),
+        window.KBMRecruitmentWebsite.loadVisibility()
+    ])
+        .then(([positions, visibility]) => {
+            const job = positions.find(position => position.id === jobId && window.KBMRecruitmentWebsite.isVisible(position, visibility));
             const container = document.getElementById("job-content");
 
             if (!job) {
@@ -97,3 +103,4 @@
 
 </body>
 </html>
+
